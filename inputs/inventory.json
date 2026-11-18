@@ -1,0 +1,49 @@
+{
+  "files": [
+    {
+      "path": "actions.json",
+      "bytes": 371,
+      "sha256": "4d1845377603f14e511e738ed979d1a32823797c6ba3e274e8228a4082d64d03"
+    },
+    {
+      "path": "analysis_requests.json",
+      "bytes": 409,
+      "sha256": "83d40249d97cdb1efb05d254b17091cafad414582fe4f937c90f65acc270450c"
+    },
+    {
+      "path": "contacts.parquet",
+      "bytes": 43662,
+      "sha256": "9330e872ccfaa7559c9792277adf7f8385800818258d530d965141de8f673483",
+      "rows": 96
+    },
+    {
+      "path": "margins.parquet",
+      "bytes": 3688,
+      "sha256": "f67e2c4f11312ce6b170b43077a24b1f4d9836beb24974afc573f662c755828e",
+      "rows": 4
+    },
+    {
+      "path": "responses.parquet",
+      "bytes": 29106,
+      "sha256": "4d0979f4379dac35692bb2b06688bc8a9fa5dbe05c745fe0e92de73302cc72b1",
+      "rows": 54
+    },
+    {
+      "path": "sampling_frame.parquet",
+      "bytes": 128831,
+      "sha256": "9650c9cb5c356515981538c08143bbca1db7090e5ca489430c1d022bbf78c0ac",
+      "rows": 144
+    },
+    {
+      "path": "seed.json",
+      "bytes": 75363,
+      "sha256": "6cf310e75e1c51cd09d36eac74701f6c21db8ef959098accb938912ecb1d4986"
+    },
+    {
+      "path": "volunteer.parquet",
+      "bytes": 33839,
+      "sha256": "06f8854a41254ce9cbdd2ec2a945a686e42dae874f821137ec9b45db9e20362c",
+      "rows": 90
+    }
+  ]
+}

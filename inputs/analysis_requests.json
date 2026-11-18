@@ -1,0 +1,25 @@
+[
+  {
+    "request": "overall",
+    "target": "unique_adult_visitors",
+    "period": [
+      "2026-10-01",
+      "2026-10-04"
+    ],
+    "metrics": [
+      "revisit",
+      "spend_band"
+    ],
+    "margins": [
+      "age-persons"
+    ]
+  },
+  {
+    "request": "bad-universe",
+    "target": "unique_adult_visitors",
+    "margins": [
+      "age-persons",
+      "age-passages"
+    ]
+  }
+]

@@ -1,0 +1,3126 @@
+{
+  "sampling_frame": [
+    {
+      "unit": "morning-0-0",
+      "stratum": "morning",
+      "psu": "morning-0",
+      "pi_psu": 0.5,
+      "pi_cond": 0.6666666666666666,
+      "selected": true,
+      "age_group": "young",
+      "target": "unique_adult_visitors",
+      "day": "2026-10-03"
+    },
+    {
+      "unit": "morning-0-1",
+      "stratum": "morning",
+      "psu": "morning-0",
+      "pi_psu": 0.5,
+      "pi_cond": 0.6666666666666666,
+      "selected": true,
+      "age_group": "young",
+      "target": "unique_adult_visitors",
+      "day": "2026-10-03"
+    },
+    {
+      "unit": "morning-0-2",
+      "stratum": "morning",
+      "psu": "morning-0",
+      "pi_psu": 0.5,
+      "pi_cond": 0.6666666666666666,
+      "selected": false,
+      "age_group": "young",
+      "target": "unique_adult_visitors",
+      "day": "2026-10-03"
+    },
+    {
+      "unit": "morning-0-3",
+      "stratum": "morning",
+      "psu": "morning-0",
+      "pi_psu": 0.5,
+      "pi_cond": 0.6666666666666666,
+      "selected": true,
+      "age_group": "young",
+      "target": "unique_adult_visitors",
+      "day": "2026-10-03"
+    },
+    {
+      "unit": "morning-0-4",
+      "stratum": "morning",
+      "psu": "morning-0",
+      "pi_psu": 0.5,
+      "pi_cond": 0.6666666666666666,
+      "selected": true,
+      "age_group": "young",
+      "target": "unique_adult_visitors",
+      "day": "2026-10-03"
+    },
+    {
+      "unit": "morning-0-5",
+      "stratum": "morning",
+      "psu": "morning-0",
+      "pi_psu": 0.5,
+      "pi_cond": 0.6666666666666666,
+      "selected": false,
+      "age_group": "young",
+      "target": "unique_adult_visitors",
+      "day": "2026-10-03"
+    },
+    {
+      "unit": "morning-0-6",
+      "stratum": "morning",
+      "psu": "morning-0",
+      "pi_psu": 0.5,
+      "pi_cond": 0.6666666666666666,
+      "selected": true,
+      "age_group": "adult",
+      "target": "unique_adult_visitors",
+      "day": "2026-10-03"
+    },
+    {
+      "unit": "morning-0-7",
+      "stratum": "morning",
+      "psu": "morning-0",
+      "pi_psu": 0.5,
+      "pi_cond": 0.6666666666666666,
+      "selected": true,
+      "age_group": "adult",
+      "target": "unique_adult_visitors",
+      "day": "2026-10-03"
+    },
+    {
+      "unit": "morning-0-8",
+      "stratum": "morning",
+      "psu": "morning-0",
+      "pi_psu": 0.5,
+      "pi_cond": 0.6666666666666666,
+      "selected": false,
+      "age_group": "adult",
+      "target": "unique_adult_visitors",
+      "day": "2026-10-03"
+    },
+    {
+      "unit": "morning-0-9",
+      "stratum": "morning",
+      "psu": "morning-0",
+      "pi_psu": 0.5,
+      "pi_cond": 0.6666666666666666,
+      "selected": true,
+      "age_group": "adult",
+      "target": "unique_adult_visitors",
+      "day": "2026-10-03"
+    },
+    {
+      "unit": "morning-0-10",
+      "stratum": "morning",
+      "psu": "morning-0",
+      "pi_psu": 0.5,
+      "pi_cond": 0.6666666666666666,
+      "selected": true,
+      "age_group": "adult",
+      "target": "unique_adult_visitors",
+      "day": "2026-10-03"
+    },
+    {
+      "unit": "morning-0-11",
+      "stratum": "morning",
+      "psu": "morning-0",
+      "pi_psu": 0.5,
+      "pi_cond": 0.6666666666666666,
+      "selected": false,
+      "age_group": "adult",
+      "target": "unique_adult_visitors",
+      "day": "2026-10-03"
+    },
+    {
+      "unit": "morning-1-0",
+      "stratum": "morning",
+      "psu": "morning-1",
+      "pi_psu": 0.5,
+      "pi_cond": 0.6666666666666666,
+      "selected": true,
+      "age_group": "young",
+      "target": "unique_adult_visitors",
+      "day": "2026-10-03"
+    },
+    {
+      "unit": "morning-1-1",
+      "stratum": "morning",
+      "psu": "morning-1",
+      "pi_psu": 0.5,
+      "pi_cond": 0.6666666666666666,
+      "selected": true,
+      "age_group": "young",
+      "target": "unique_adult_visitors",
+      "day": "2026-10-03"
+    },
+    {
+      "unit": "morning-1-2",
+      "stratum": "morning",
+      "psu": "morning-1",
+      "pi_psu": 0.5,
+      "pi_cond": 0.6666666666666666,
+      "selected": false,
+      "age_group": "young",
+      "target": "unique_adult_visitors",
+      "day": "2026-10-03"
+    },
+    {
+      "unit": "morning-1-3",
+      "stratum": "morning",
+      "psu": "morning-1",
+      "pi_psu": 0.5,
+      "pi_cond": 0.6666666666666666,
+      "selected": true,
+      "age_group": "young",
+      "target": "unique_adult_visitors",
+      "day": "2026-10-03"
+    },
+    {
+      "unit": "morning-1-4",
+      "stratum": "morning",
+      "psu": "morning-1",
+      "pi_psu": 0.5,
+      "pi_cond": 0.6666666666666666,
+      "selected": true,
+      "age_group": "young",
+      "target": "unique_adult_visitors",
+      "day": "2026-10-03"
+    },
+    {
+      "unit": "morning-1-5",
+      "stratum": "morning",
+      "psu": "morning-1",
+      "pi_psu": 0.5,
+      "pi_cond": 0.6666666666666666,
+      "selected": false,
+      "age_group": "young",
+      "target": "unique_adult_visitors",
+      "day": "2026-10-03"
+    },
+    {
+      "unit": "morning-1-6",
+      "stratum": "morning",
+      "psu": "morning-1",
+      "pi_psu": 0.5,
+      "pi_cond": 0.6666666666666666,
+      "selected": true,
+      "age_group": "adult",
+      "target": "unique_adult_visitors",
+      "day": "2026-10-03"
+    },
+    {
+      "unit": "morning-1-7",
+      "stratum": "morning",
+      "psu": "morning-1",
+      "pi_psu": 0.5,
+      "pi_cond": 0.6666666666666666,
+      "selected": true,
+      "age_group": "adult",
+      "target": "unique_adult_visitors",
+      "day": "2026-10-03"
+    },
+    {
+      "unit": "morning-1-8",
+      "stratum": "morning",
+      "psu": "morning-1",
+      "pi_psu": 0.5,
+      "pi_cond": 0.6666666666666666,
+      "selected": false,
+      "age_group": "adult",
+      "target": "unique_adult_visitors",
+      "day": "2026-10-03"
+    },
+    {
+      "unit": "morning-1-9",
+      "stratum": "morning",
+      "psu": "morning-1",
+      "pi_psu": 0.5,
+      "pi_cond": 0.6666666666666666,
+      "selected": true,
+      "age_group": "adult",
+      "target": "unique_adult_visitors",
+      "day": "2026-10-03"
+    },
+    {
+      "unit": "morning-1-10",
+      "stratum": "morning",
+      "psu": "morning-1",
+      "pi_psu": 0.5,
+      "pi_cond": 0.6666666666666666,
+      "selected": true,
+      "age_group": "adult",
+      "target": "unique_adult_visitors",
+      "day": "2026-10-03"
+    },
+    {
+      "unit": "morning-1-11",
+      "stratum": "morning",
+      "psu": "morning-1",
+      "pi_psu": 0.5,
+      "pi_cond": 0.6666666666666666,
+      "selected": false,
+      "age_group": "adult",
+      "target": "unique_adult_visitors",
+      "day": "2026-10-03"
+    },
+    {
+      "unit": "morning-2-0",
+      "stratum": "morning",
+      "psu": "morning-2",
+      "pi_psu": 0.5,
+      "pi_cond": 0.6666666666666666,
+      "selected": true,
+      "age_group": "young",
+      "target": "unique_adult_visitors",
+      "day": "2026-10-03"
+    },
+    {
+      "unit": "morning-2-1",
+      "stratum": "morning",
+      "psu": "morning-2",
+      "pi_psu": 0.5,
+      "pi_cond": 0.6666666666666666,
+      "selected": true,
+      "age_group": "young",
+      "target": "unique_adult_visitors",
+      "day": "2026-10-03"
+    },
+    {
+      "unit": "morning-2-2",
+      "stratum": "morning",
+      "psu": "morning-2",
+      "pi_psu": 0.5,
+      "pi_cond": 0.6666666666666666,
+      "selected": false,
+      "age_group": "young",
+      "target": "unique_adult_visitors",
+      "day": "2026-10-03"
+    },
+    {
+      "unit": "morning-2-3",
+      "stratum": "morning",
+      "psu": "morning-2",
+      "pi_psu": 0.5,
+      "pi_cond": 0.6666666666666666,
+      "selected": true,
+      "age_group": "young",
+      "target": "unique_adult_visitors",
+      "day": "2026-10-03"
+    },
+    {
+      "unit": "morning-2-4",
+      "stratum": "morning",
+      "psu": "morning-2",
+      "pi_psu": 0.5,
+      "pi_cond": 0.6666666666666666,
+      "selected": true,
+      "age_group": "young",
+      "target": "unique_adult_visitors",
+      "day": "2026-10-03"
+    },
+    {
+      "unit": "morning-2-5",
+      "stratum": "morning",
+      "psu": "morning-2",
+      "pi_psu": 0.5,
+      "pi_cond": 0.6666666666666666,
+      "selected": false,
+      "age_group": "young",
+      "target": "unique_adult_visitors",
+      "day": "2026-10-03"
+    },
+    {
+      "unit": "morning-2-6",
+      "stratum": "morning",
+      "psu": "morning-2",
+      "pi_psu": 0.5,
+      "pi_cond": 0.6666666666666666,
+      "selected": true,
+      "age_group": "adult",
+      "target": "unique_adult_visitors",
+      "day": "2026-10-03"
+    },
+    {
+      "unit": "morning-2-7",
+      "stratum": "morning",
+      "psu": "morning-2",
+      "pi_psu": 0.5,
+      "pi_cond": 0.6666666666666666,
+      "selected": true,
+      "age_group": "adult",
+      "target": "unique_adult_visitors",
+      "day": "2026-10-03"
+    },
+    {
+      "unit": "morning-2-8",
+      "stratum": "morning",
+      "psu": "morning-2",
+      "pi_psu": 0.5,
+      "pi_cond": 0.6666666666666666,
+      "selected": false,
+      "age_group": "adult",
+      "target": "unique_adult_visitors",
+      "day": "2026-10-03"
+    },
+    {
+      "unit": "morning-2-9",
+      "stratum": "morning",
+      "psu": "morning-2",
+      "pi_psu": 0.5,
+      "pi_cond": 0.6666666666666666,
+      "selected": true,
+      "age_group": "adult",
+      "target": "unique_adult_visitors",
+      "day": "2026-10-03"
+    },
+    {
+      "unit": "morning-2-10",
+      "stratum": "morning",
+      "psu": "morning-2",
+      "pi_psu": 0.5,
+      "pi_cond": 0.6666666666666666,
+      "selected": true,
+      "age_group": "adult",
+      "target": "unique_adult_visitors",
+      "day": "2026-10-03"
+    },
+    {
+      "unit": "morning-2-11",
+      "stratum": "morning",
+      "psu": "morning-2",
+      "pi_psu": 0.5,
+      "pi_cond": 0.6666666666666666,
+      "selected": false,
+      "age_group": "adult",
+      "target": "unique_adult_visitors",
+      "day": "2026-10-03"
+    },
+    {
+      "unit": "morning-3-0",
+      "stratum": "morning",
+      "psu": "morning-3",
+      "pi_psu": 0.5,
+      "pi_cond": 0.6666666666666666,
+      "selected": true,
+      "age_group": "young",
+      "target": "unique_adult_visitors",
+      "day": "2026-10-03"
+    },
+    {
+      "unit": "morning-3-1",
+      "stratum": "morning",
+      "psu": "morning-3",
+      "pi_psu": 0.5,
+      "pi_cond": 0.6666666666666666,
+      "selected": true,
+      "age_group": "young",
+      "target": "unique_adult_visitors",
+      "day": "2026-10-03"
+    },
+    {
+      "unit": "morning-3-2",
+      "stratum": "morning",
+      "psu": "morning-3",
+      "pi_psu": 0.5,
+      "pi_cond": 0.6666666666666666,
+      "selected": false,
+      "age_group": "young",
+      "target": "unique_adult_visitors",
+      "day": "2026-10-03"
+    },
+    {
+      "unit": "morning-3-3",
+      "stratum": "morning",
+      "psu": "morning-3",
+      "pi_psu": 0.5,
+      "pi_cond": 0.6666666666666666,
+      "selected": true,
+      "age_group": "young",
+      "target": "unique_adult_visitors",
+      "day": "2026-10-03"
+    },
+    {
+      "unit": "morning-3-4",
+      "stratum": "morning",
+      "psu": "morning-3",
+      "pi_psu": 0.5,
+      "pi_cond": 0.6666666666666666,
+      "selected": true,
+      "age_group": "young",
+      "target": "unique_adult_visitors",
+      "day": "2026-10-03"
+    },
+    {
+      "unit": "morning-3-5",
+      "stratum": "morning",
+      "psu": "morning-3",
+      "pi_psu": 0.5,
+      "pi_cond": 0.6666666666666666,
+      "selected": false,
+      "age_group": "young",
+      "target": "unique_adult_visitors",
+      "day": "2026-10-03"
+    },
+    {
+      "unit": "morning-3-6",
+      "stratum": "morning",
+      "psu": "morning-3",
+      "pi_psu": 0.5,
+      "pi_cond": 0.6666666666666666,
+      "selected": true,
+      "age_group": "adult",
+      "target": "unique_adult_visitors",
+      "day": "2026-10-03"
+    },
+    {
+      "unit": "morning-3-7",
+      "stratum": "morning",
+      "psu": "morning-3",
+      "pi_psu": 0.5,
+      "pi_cond": 0.6666666666666666,
+      "selected": true,
+      "age_group": "adult",
+      "target": "unique_adult_visitors",
+      "day": "2026-10-03"
+    },
+    {
+      "unit": "morning-3-8",
+      "stratum": "morning",
+      "psu": "morning-3",
+      "pi_psu": 0.5,
+      "pi_cond": 0.6666666666666666,
+      "selected": false,
+      "age_group": "adult",
+      "target": "unique_adult_visitors",
+      "day": "2026-10-03"
+    },
+    {
+      "unit": "morning-3-9",
+      "stratum": "morning",
+      "psu": "morning-3",
+      "pi_psu": 0.5,
+      "pi_cond": 0.6666666666666666,
+      "selected": true,
+      "age_group": "adult",
+      "target": "unique_adult_visitors",
+      "day": "2026-10-03"
+    },
+    {
+      "unit": "morning-3-10",
+      "stratum": "morning",
+      "psu": "morning-3",
+      "pi_psu": 0.5,
+      "pi_cond": 0.6666666666666666,
+      "selected": true,
+      "age_group": "adult",
+      "target": "unique_adult_visitors",
+      "day": "2026-10-03"
+    },
+    {
+      "unit": "morning-3-11",
+      "stratum": "morning",
+      "psu": "morning-3",
+      "pi_psu": 0.5,
+      "pi_cond": 0.6666666666666666,
+      "selected": false,
+      "age_group": "adult",
+      "target": "unique_adult_visitors",
+      "day": "2026-10-03"
+    },
+    {
+      "unit": "morning-4-0",
+      "stratum": "morning",
+      "psu": "morning-4",
+      "pi_psu": 0.5,
+      "pi_cond": 0.6666666666666666,
+      "selected": true,
+      "age_group": "young",
+      "target": "unique_adult_visitors",
+      "day": "2026-10-03"
+    },
+    {
+      "unit": "morning-4-1",
+      "stratum": "morning",
+      "psu": "morning-4",
+      "pi_psu": 0.5,
+      "pi_cond": 0.6666666666666666,
+      "selected": true,
+      "age_group": "young",
+      "target": "unique_adult_visitors",
+      "day": "2026-10-03"
+    },
+    {
+      "unit": "morning-4-2",
+      "stratum": "morning",
+      "psu": "morning-4",
+      "pi_psu": 0.5,
+      "pi_cond": 0.6666666666666666,
+      "selected": false,
+      "age_group": "young",
+      "target": "unique_adult_visitors",
+      "day": "2026-10-03"
+    },
+    {
+      "unit": "morning-4-3",
+      "stratum": "morning",
+      "psu": "morning-4",
+      "pi_psu": 0.5,
+      "pi_cond": 0.6666666666666666,
+      "selected": true,
+      "age_group": "young",
+      "target": "unique_adult_visitors",
+      "day": "2026-10-03"
+    },
+    {
+      "unit": "morning-4-4",
+      "stratum": "morning",
+      "psu": "morning-4",
+      "pi_psu": 0.5,
+      "pi_cond": 0.6666666666666666,
+      "selected": true,
+      "age_group": "young",
+      "target": "unique_adult_visitors",
+      "day": "2026-10-03"
+    },
+    {
+      "unit": "morning-4-5",
+      "stratum": "morning",
+      "psu": "morning-4",
+      "pi_psu": 0.5,
+      "pi_cond": 0.6666666666666666,
+      "selected": false,
+      "age_group": "young",
+      "target": "unique_adult_visitors",
+      "day": "2026-10-03"
+    },
+    {
+      "unit": "morning-4-6",
+      "stratum": "morning",
+      "psu": "morning-4",
+      "pi_psu": 0.5,
+      "pi_cond": 0.6666666666666666,
+      "selected": true,
+      "age_group": "adult",
+      "target": "unique_adult_visitors",
+      "day": "2026-10-03"
+    },
+    {
+      "unit": "morning-4-7",
+      "stratum": "morning",
+      "psu": "morning-4",
+      "pi_psu": 0.5,
+      "pi_cond": 0.6666666666666666,
+      "selected": true,
+      "age_group": "adult",
+      "target": "unique_adult_visitors",
+      "day": "2026-10-03"
+    },
+    {
+      "unit": "morning-4-8",
+      "stratum": "morning",
+      "psu": "morning-4",
+      "pi_psu": 0.5,
+      "pi_cond": 0.6666666666666666,
+      "selected": false,
+      "age_group": "adult",
+      "target": "unique_adult_visitors",
+      "day": "2026-10-03"
+    },
+    {
+      "unit": "morning-4-9",
+      "stratum": "morning",
+      "psu": "morning-4",
+      "pi_psu": 0.5,
+      "pi_cond": 0.6666666666666666,
+      "selected": true,
+      "age_group": "adult",
+      "target": "unique_adult_visitors",
+      "day": "2026-10-03"
+    },
+    {
+      "unit": "morning-4-10",
+      "stratum": "morning",
+      "psu": "morning-4",
+      "pi_psu": 0.5,
+      "pi_cond": 0.6666666666666666,
+      "selected": true,
+      "age_group": "adult",
+      "target": "unique_adult_visitors",
+      "day": "2026-10-03"
+    },
+    {
+      "unit": "morning-4-11",
+      "stratum": "morning",
+      "psu": "morning-4",
+      "pi_psu": 0.5,
+      "pi_cond": 0.6666666666666666,
+      "selected": false,
+      "age_group": "adult",
+      "target": "unique_adult_visitors",
+      "day": "2026-10-03"
+    },
+    {
+      "unit": "morning-5-0",
+      "stratum": "morning",
+      "psu": "morning-5",
+      "pi_psu": 0.5,
+      "pi_cond": 0.6666666666666666,
+      "selected": true,
+      "age_group": "young",
+      "target": "unique_adult_visitors",
+      "day": "2026-10-03"
+    },
+    {
+      "unit": "morning-5-1",
+      "stratum": "morning",
+      "psu": "morning-5",
+      "pi_psu": 0.5,
+      "pi_cond": 0.6666666666666666,
+      "selected": true,
+      "age_group": "young",
+      "target": "unique_adult_visitors",
+      "day": "2026-10-03"
+    },
+    {
+      "unit": "morning-5-2",
+      "stratum": "morning",
+      "psu": "morning-5",
+      "pi_psu": 0.5,
+      "pi_cond": 0.6666666666666666,
+      "selected": false,
+      "age_group": "young",
+      "target": "unique_adult_visitors",
+      "day": "2026-10-03"
+    },
+    {
+      "unit": "morning-5-3",
+      "stratum": "morning",
+      "psu": "morning-5",
+      "pi_psu": 0.5,
+      "pi_cond": 0.6666666666666666,
+      "selected": true,
+      "age_group": "young",
+      "target": "unique_adult_visitors",
+      "day": "2026-10-03"
+    },
+    {
+      "unit": "morning-5-4",
+      "stratum": "morning",
+      "psu": "morning-5",
+      "pi_psu": 0.5,
+      "pi_cond": 0.6666666666666666,
+      "selected": true,
+      "age_group": "young",
+      "target": "unique_adult_visitors",
+      "day": "2026-10-03"
+    },
+    {
+      "unit": "morning-5-5",
+      "stratum": "morning",
+      "psu": "morning-5",
+      "pi_psu": 0.5,
+      "pi_cond": 0.6666666666666666,
+      "selected": false,
+      "age_group": "young",
+      "target": "unique_adult_visitors",
+      "day": "2026-10-03"
+    },
+    {
+      "unit": "morning-5-6",
+      "stratum": "morning",
+      "psu": "morning-5",
+      "pi_psu": 0.5,
+      "pi_cond": 0.6666666666666666,
+      "selected": true,
+      "age_group": "adult",
+      "target": "unique_adult_visitors",
+      "day": "2026-10-03"
+    },
+    {
+      "unit": "morning-5-7",
+      "stratum": "morning",
+      "psu": "morning-5",
+      "pi_psu": 0.5,
+      "pi_cond": 0.6666666666666666,
+      "selected": true,
+      "age_group": "adult",
+      "target": "unique_adult_visitors",
+      "day": "2026-10-03"
+    },
+    {
+      "unit": "morning-5-8",
+      "stratum": "morning",
+      "psu": "morning-5",
+      "pi_psu": 0.5,
+      "pi_cond": 0.6666666666666666,
+      "selected": false,
+      "age_group": "adult",
+      "target": "unique_adult_visitors",
+      "day": "2026-10-03"
+    },
+    {
+      "unit": "morning-5-9",
+      "stratum": "morning",
+      "psu": "morning-5",
+      "pi_psu": 0.5,
+      "pi_cond": 0.6666666666666666,
+      "selected": true,
+      "age_group": "adult",
+      "target": "unique_adult_visitors",
+      "day": "2026-10-03"
+    },
+    {
+      "unit": "morning-5-10",
+      "stratum": "morning",
+      "psu": "morning-5",
+      "pi_psu": 0.5,
+      "pi_cond": 0.6666666666666666,
+      "selected": true,
+      "age_group": "adult",
+      "target": "unique_adult_visitors",
+      "day": "2026-10-03"
+    },
+    {
+      "unit": "morning-5-11",
+      "stratum": "morning",
+      "psu": "morning-5",
+      "pi_psu": 0.5,
+      "pi_cond": 0.6666666666666666,
+      "selected": false,
+      "age_group": "adult",
+      "target": "unique_adult_visitors",
+      "day": "2026-10-03"
+    },
+    {
+      "unit": "evening-0-0",
+      "stratum": "evening",
+      "psu": "evening-0",
+      "pi_psu": 0.5,
+      "pi_cond": 0.6666666666666666,
+      "selected": true,
+      "age_group": "young",
+      "target": "unique_adult_visitors",
+      "day": "2026-10-03"
+    },
+    {
+      "unit": "evening-0-1",
+      "stratum": "evening",
+      "psu": "evening-0",
+      "pi_psu": 0.5,
+      "pi_cond": 0.6666666666666666,
+      "selected": true,
+      "age_group": "young",
+      "target": "unique_adult_visitors",
+      "day": "2026-10-03"
+    },
+    {
+      "unit": "evening-0-2",
+      "stratum": "evening",
+      "psu": "evening-0",
+      "pi_psu": 0.5,
+      "pi_cond": 0.6666666666666666,
+      "selected": false,
+      "age_group": "young",
+      "target": "unique_adult_visitors",
+      "day": "2026-10-03"
+    },
+    {
+      "unit": "evening-0-3",
+      "stratum": "evening",
+      "psu": "evening-0",
+      "pi_psu": 0.5,
+      "pi_cond": 0.6666666666666666,
+      "selected": true,
+      "age_group": "young",
+      "target": "unique_adult_visitors",
+      "day": "2026-10-03"
+    },
+    {
+      "unit": "evening-0-4",
+      "stratum": "evening",
+      "psu": "evening-0",
+      "pi_psu": 0.5,
+      "pi_cond": 0.6666666666666666,
+      "selected": true,
+      "age_group": "young",
+      "target": "unique_adult_visitors",
+      "day": "2026-10-03"
+    },
+    {
+      "unit": "evening-0-5",
+      "stratum": "evening",
+      "psu": "evening-0",
+      "pi_psu": 0.5,
+      "pi_cond": 0.6666666666666666,
+      "selected": false,
+      "age_group": "young",
+      "target": "unique_adult_visitors",
+      "day": "2026-10-03"
+    },
+    {
+      "unit": "evening-0-6",
+      "stratum": "evening",
+      "psu": "evening-0",
+      "pi_psu": 0.5,
+      "pi_cond": 0.6666666666666666,
+      "selected": true,
+      "age_group": "adult",
+      "target": "unique_adult_visitors",
+      "day": "2026-10-03"
+    },
+    {
+      "unit": "evening-0-7",
+      "stratum": "evening",
+      "psu": "evening-0",
+      "pi_psu": 0.5,
+      "pi_cond": 0.6666666666666666,
+      "selected": true,
+      "age_group": "adult",
+      "target": "unique_adult_visitors",
+      "day": "2026-10-03"
+    },
+    {
+      "unit": "evening-0-8",
+      "stratum": "evening",
+      "psu": "evening-0",
+      "pi_psu": 0.5,
+      "pi_cond": 0.6666666666666666,
+      "selected": false,
+      "age_group": "adult",
+      "target": "unique_adult_visitors",
+      "day": "2026-10-03"
+    },
+    {
+      "unit": "evening-0-9",
+      "stratum": "evening",
+      "psu": "evening-0",
+      "pi_psu": 0.5,
+      "pi_cond": 0.6666666666666666,
+      "selected": true,
+      "age_group": "adult",
+      "target": "unique_adult_visitors",
+      "day": "2026-10-03"
+    },
+    {
+      "unit": "evening-0-10",
+      "stratum": "evening",
+      "psu": "evening-0",
+      "pi_psu": 0.5,
+      "pi_cond": 0.6666666666666666,
+      "selected": true,
+      "age_group": "adult",
+      "target": "unique_adult_visitors",
+      "day": "2026-10-03"
+    },
+    {
+      "unit": "evening-0-11",
+      "stratum": "evening",
+      "psu": "evening-0",
+      "pi_psu": 0.5,
+      "pi_cond": 0.6666666666666666,
+      "selected": false,
+      "age_group": "adult",
+      "target": "unique_adult_visitors",
+      "day": "2026-10-03"
+    },
+    {
+      "unit": "evening-1-0",
+      "stratum": "evening",
+      "psu": "evening-1",
+      "pi_psu": 0.5,
+      "pi_cond": 0.6666666666666666,
+      "selected": true,
+      "age_group": "young",
+      "target": "unique_adult_visitors",
+      "day": "2026-10-03"
+    },
+    {
+      "unit": "evening-1-1",
+      "stratum": "evening",
+      "psu": "evening-1",
+      "pi_psu": 0.5,
+      "pi_cond": 0.6666666666666666,
+      "selected": true,
+      "age_group": "young",
+      "target": "unique_adult_visitors",
+      "day": "2026-10-03"
+    },
+    {
+      "unit": "evening-1-2",
+      "stratum": "evening",
+      "psu": "evening-1",
+      "pi_psu": 0.5,
+      "pi_cond": 0.6666666666666666,
+      "selected": false,
+      "age_group": "young",
+      "target": "unique_adult_visitors",
+      "day": "2026-10-03"
+    },
+    {
+      "unit": "evening-1-3",
+      "stratum": "evening",
+      "psu": "evening-1",
+      "pi_psu": 0.5,
+      "pi_cond": 0.6666666666666666,
+      "selected": true,
+      "age_group": "young",
+      "target": "unique_adult_visitors",
+      "day": "2026-10-03"
+    },
+    {
+      "unit": "evening-1-4",
+      "stratum": "evening",
+      "psu": "evening-1",
+      "pi_psu": 0.5,
+      "pi_cond": 0.6666666666666666,
+      "selected": true,
+      "age_group": "young",
+      "target": "unique_adult_visitors",
+      "day": "2026-10-03"
+    },
+    {
+      "unit": "evening-1-5",
+      "stratum": "evening",
+      "psu": "evening-1",
+      "pi_psu": 0.5,
+      "pi_cond": 0.6666666666666666,
+      "selected": false,
+      "age_group": "young",
+      "target": "unique_adult_visitors",
+      "day": "2026-10-03"
+    },
+    {
+      "unit": "evening-1-6",
+      "stratum": "evening",
+      "psu": "evening-1",
+      "pi_psu": 0.5,
+      "pi_cond": 0.6666666666666666,
+      "selected": true,
+      "age_group": "adult",
+      "target": "unique_adult_visitors",
+      "day": "2026-10-03"
+    },
+    {
+      "unit": "evening-1-7",
+      "stratum": "evening",
+      "psu": "evening-1",
+      "pi_psu": 0.5,
+      "pi_cond": 0.6666666666666666,
+      "selected": true,
+      "age_group": "adult",
+      "target": "unique_adult_visitors",
+      "day": "2026-10-03"
+    },
+    {
+      "unit": "evening-1-8",
+      "stratum": "evening",
+      "psu": "evening-1",
+      "pi_psu": 0.5,
+      "pi_cond": 0.6666666666666666,
+      "selected": false,
+      "age_group": "adult",
+      "target": "unique_adult_visitors",
+      "day": "2026-10-03"
+    },
+    {
+      "unit": "evening-1-9",
+      "stratum": "evening",
+      "psu": "evening-1",
+      "pi_psu": 0.5,
+      "pi_cond": 0.6666666666666666,
+      "selected": true,
+      "age_group": "adult",
+      "target": "unique_adult_visitors",
+      "day": "2026-10-03"
+    },
+    {
+      "unit": "evening-1-10",
+      "stratum": "evening",
+      "psu": "evening-1",
+      "pi_psu": 0.5,
+      "pi_cond": 0.6666666666666666,
+      "selected": true,
+      "age_group": "adult",
+      "target": "unique_adult_visitors",
+      "day": "2026-10-03"
+    },
+    {
+      "unit": "evening-1-11",
+      "stratum": "evening",
+      "psu": "evening-1",
+      "pi_psu": 0.5,
+      "pi_cond": 0.6666666666666666,
+      "selected": false,
+      "age_group": "adult",
+      "target": "unique_adult_visitors",
+      "day": "2026-10-03"
+    },
+    {
+      "unit": "evening-2-0",
+      "stratum": "evening",
+      "psu": "evening-2",
+      "pi_psu": 0.5,
+      "pi_cond": 0.6666666666666666,
+      "selected": true,
+      "age_group": "young",
+      "target": "unique_adult_visitors",
+      "day": "2026-10-03"
+    },
+    {
+      "unit": "evening-2-1",
+      "stratum": "evening",
+      "psu": "evening-2",
+      "pi_psu": 0.5,
+      "pi_cond": 0.6666666666666666,
+      "selected": true,
+      "age_group": "young",
+      "target": "unique_adult_visitors",
+      "day": "2026-10-03"
+    },
+    {
+      "unit": "evening-2-2",
+      "stratum": "evening",
+      "psu": "evening-2",
+      "pi_psu": 0.5,
+      "pi_cond": 0.6666666666666666,
+      "selected": false,
+      "age_group": "young",
+      "target": "unique_adult_visitors",
+      "day": "2026-10-03"
+    },
+    {
+      "unit": "evening-2-3",
+      "stratum": "evening",
+      "psu": "evening-2",
+      "pi_psu": 0.5,
+      "pi_cond": 0.6666666666666666,
+      "selected": true,
+      "age_group": "young",
+      "target": "unique_adult_visitors",
+      "day": "2026-10-03"
+    },
+    {
+      "unit": "evening-2-4",
+      "stratum": "evening",
+      "psu": "evening-2",
+      "pi_psu": 0.5,
+      "pi_cond": 0.6666666666666666,
+      "selected": true,
+      "age_group": "young",
+      "target": "unique_adult_visitors",
+      "day": "2026-10-03"
+    },
+    {
+      "unit": "evening-2-5",
+      "stratum": "evening",
+      "psu": "evening-2",
+      "pi_psu": 0.5,
+      "pi_cond": 0.6666666666666666,
+      "selected": false,
+      "age_group": "young",
+      "target": "unique_adult_visitors",
+      "day": "2026-10-03"
+    },
+    {
+      "unit": "evening-2-6",
+      "stratum": "evening",
+      "psu": "evening-2",
+      "pi_psu": 0.5,
+      "pi_cond": 0.6666666666666666,
+      "selected": true,
+      "age_group": "adult",
+      "target": "unique_adult_visitors",
+      "day": "2026-10-03"
+    },
+    {
+      "unit": "evening-2-7",
+      "stratum": "evening",
+      "psu": "evening-2",
+      "pi_psu": 0.5,
+      "pi_cond": 0.6666666666666666,
+      "selected": true,
+      "age_group": "adult",
+      "target": "unique_adult_visitors",
+      "day": "2026-10-03"
+    },
+    {
+      "unit": "evening-2-8",
+      "stratum": "evening",
+      "psu": "evening-2",
+      "pi_psu": 0.5,
+      "pi_cond": 0.6666666666666666,
+      "selected": false,
+      "age_group": "adult",
+      "target": "unique_adult_visitors",
+      "day": "2026-10-03"
+    },
+    {
+      "unit": "evening-2-9",
+      "stratum": "evening",
+      "psu": "evening-2",
+      "pi_psu": 0.5,
+      "pi_cond": 0.6666666666666666,
+      "selected": true,
+      "age_group": "adult",
+      "target": "unique_adult_visitors",
+      "day": "2026-10-03"
+    },
+    {
+      "unit": "evening-2-10",
+      "stratum": "evening",
+      "psu": "evening-2",
+      "pi_psu": 0.5,
+      "pi_cond": 0.6666666666666666,
+      "selected": true,
+      "age_group": "adult",
+      "target": "unique_adult_visitors",
+      "day": "2026-10-03"
+    },
+    {
+      "unit": "evening-2-11",
+      "stratum": "evening",
+      "psu": "evening-2",
+      "pi_psu": 0.5,
+      "pi_cond": 0.6666666666666666,
+      "selected": false,
+      "age_group": "adult",
+      "target": "unique_adult_visitors",
+      "day": "2026-10-03"
+    },
+    {
+      "unit": "evening-3-0",
+      "stratum": "evening",
+      "psu": "evening-3",
+      "pi_psu": 0.5,
+      "pi_cond": 0.6666666666666666,
+      "selected": true,
+      "age_group": "young",
+      "target": "unique_adult_visitors",
+      "day": "2026-10-03"
+    },
+    {
+      "unit": "evening-3-1",
+      "stratum": "evening",
+      "psu": "evening-3",
+      "pi_psu": 0.5,
+      "pi_cond": 0.6666666666666666,
+      "selected": true,
+      "age_group": "young",
+      "target": "unique_adult_visitors",
+      "day": "2026-10-03"
+    },
+    {
+      "unit": "evening-3-2",
+      "stratum": "evening",
+      "psu": "evening-3",
+      "pi_psu": 0.5,
+      "pi_cond": 0.6666666666666666,
+      "selected": false,
+      "age_group": "young",
+      "target": "unique_adult_visitors",
+      "day": "2026-10-03"
+    },
+    {
+      "unit": "evening-3-3",
+      "stratum": "evening",
+      "psu": "evening-3",
+      "pi_psu": 0.5,
+      "pi_cond": 0.6666666666666666,
+      "selected": true,
+      "age_group": "young",
+      "target": "unique_adult_visitors",
+      "day": "2026-10-03"
+    },
+    {
+      "unit": "evening-3-4",
+      "stratum": "evening",
+      "psu": "evening-3",
+      "pi_psu": 0.5,
+      "pi_cond": 0.6666666666666666,
+      "selected": true,
+      "age_group": "young",
+      "target": "unique_adult_visitors",
+      "day": "2026-10-03"
+    },
+    {
+      "unit": "evening-3-5",
+      "stratum": "evening",
+      "psu": "evening-3",
+      "pi_psu": 0.5,
+      "pi_cond": 0.6666666666666666,
+      "selected": false,
+      "age_group": "young",
+      "target": "unique_adult_visitors",
+      "day": "2026-10-03"
+    },
+    {
+      "unit": "evening-3-6",
+      "stratum": "evening",
+      "psu": "evening-3",
+      "pi_psu": 0.5,
+      "pi_cond": 0.6666666666666666,
+      "selected": true,
+      "age_group": "adult",
+      "target": "unique_adult_visitors",
+      "day": "2026-10-03"
+    },
+    {
+      "unit": "evening-3-7",
+      "stratum": "evening",
+      "psu": "evening-3",
+      "pi_psu": 0.5,
+      "pi_cond": 0.6666666666666666,
+      "selected": true,
+      "age_group": "adult",
+      "target": "unique_adult_visitors",
+      "day": "2026-10-03"
+    },
+    {
+      "unit": "evening-3-8",
+      "stratum": "evening",
+      "psu": "evening-3",
+      "pi_psu": 0.5,
+      "pi_cond": 0.6666666666666666,
+      "selected": false,
+      "age_group": "adult",
+      "target": "unique_adult_visitors",
+      "day": "2026-10-03"
+    },
+    {
+      "unit": "evening-3-9",
+      "stratum": "evening",
+      "psu": "evening-3",
+      "pi_psu": 0.5,
+      "pi_cond": 0.6666666666666666,
+      "selected": true,
+      "age_group": "adult",
+      "target": "unique_adult_visitors",
+      "day": "2026-10-03"
+    },
+    {
+      "unit": "evening-3-10",
+      "stratum": "evening",
+      "psu": "evening-3",
+      "pi_psu": 0.5,
+      "pi_cond": 0.6666666666666666,
+      "selected": true,
+      "age_group": "adult",
+      "target": "unique_adult_visitors",
+      "day": "2026-10-03"
+    },
+    {
+      "unit": "evening-3-11",
+      "stratum": "evening",
+      "psu": "evening-3",
+      "pi_psu": 0.5,
+      "pi_cond": 0.6666666666666666,
+      "selected": false,
+      "age_group": "adult",
+      "target": "unique_adult_visitors",
+      "day": "2026-10-03"
+    },
+    {
+      "unit": "evening-4-0",
+      "stratum": "evening",
+      "psu": "evening-4",
+      "pi_psu": 0.5,
+      "pi_cond": 0.6666666666666666,
+      "selected": true,
+      "age_group": "young",
+      "target": "unique_adult_visitors",
+      "day": "2026-10-03"
+    },
+    {
+      "unit": "evening-4-1",
+      "stratum": "evening",
+      "psu": "evening-4",
+      "pi_psu": 0.5,
+      "pi_cond": 0.6666666666666666,
+      "selected": true,
+      "age_group": "young",
+      "target": "unique_adult_visitors",
+      "day": "2026-10-03"
+    },
+    {
+      "unit": "evening-4-2",
+      "stratum": "evening",
+      "psu": "evening-4",
+      "pi_psu": 0.5,
+      "pi_cond": 0.6666666666666666,
+      "selected": false,
+      "age_group": "young",
+      "target": "unique_adult_visitors",
+      "day": "2026-10-03"
+    },
+    {
+      "unit": "evening-4-3",
+      "stratum": "evening",
+      "psu": "evening-4",
+      "pi_psu": 0.5,
+      "pi_cond": 0.6666666666666666,
+      "selected": true,
+      "age_group": "young",
+      "target": "unique_adult_visitors",
+      "day": "2026-10-03"
+    },
+    {
+      "unit": "evening-4-4",
+      "stratum": "evening",
+      "psu": "evening-4",
+      "pi_psu": 0.5,
+      "pi_cond": 0.6666666666666666,
+      "selected": true,
+      "age_group": "young",
+      "target": "unique_adult_visitors",
+      "day": "2026-10-03"
+    },
+    {
+      "unit": "evening-4-5",
+      "stratum": "evening",
+      "psu": "evening-4",
+      "pi_psu": 0.5,
+      "pi_cond": 0.6666666666666666,
+      "selected": false,
+      "age_group": "young",
+      "target": "unique_adult_visitors",
+      "day": "2026-10-03"
+    },
+    {
+      "unit": "evening-4-6",
+      "stratum": "evening",
+      "psu": "evening-4",
+      "pi_psu": 0.5,
+      "pi_cond": 0.6666666666666666,
+      "selected": true,
+      "age_group": "adult",
+      "target": "unique_adult_visitors",
+      "day": "2026-10-03"
+    },
+    {
+      "unit": "evening-4-7",
+      "stratum": "evening",
+      "psu": "evening-4",
+      "pi_psu": 0.5,
+      "pi_cond": 0.6666666666666666,
+      "selected": true,
+      "age_group": "adult",
+      "target": "unique_adult_visitors",
+      "day": "2026-10-03"
+    },
+    {
+      "unit": "evening-4-8",
+      "stratum": "evening",
+      "psu": "evening-4",
+      "pi_psu": 0.5,
+      "pi_cond": 0.6666666666666666,
+      "selected": false,
+      "age_group": "adult",
+      "target": "unique_adult_visitors",
+      "day": "2026-10-03"
+    },
+    {
+      "unit": "evening-4-9",
+      "stratum": "evening",
+      "psu": "evening-4",
+      "pi_psu": 0.5,
+      "pi_cond": 0.6666666666666666,
+      "selected": true,
+      "age_group": "adult",
+      "target": "unique_adult_visitors",
+      "day": "2026-10-03"
+    },
+    {
+      "unit": "evening-4-10",
+      "stratum": "evening",
+      "psu": "evening-4",
+      "pi_psu": 0.5,
+      "pi_cond": 0.6666666666666666,
+      "selected": true,
+      "age_group": "adult",
+      "target": "unique_adult_visitors",
+      "day": "2026-10-03"
+    },
+    {
+      "unit": "evening-4-11",
+      "stratum": "evening",
+      "psu": "evening-4",
+      "pi_psu": 0.5,
+      "pi_cond": 0.6666666666666666,
+      "selected": false,
+      "age_group": "adult",
+      "target": "unique_adult_visitors",
+      "day": "2026-10-03"
+    },
+    {
+      "unit": "evening-5-0",
+      "stratum": "evening",
+      "psu": "evening-5",
+      "pi_psu": 0.5,
+      "pi_cond": 0.6666666666666666,
+      "selected": true,
+      "age_group": "young",
+      "target": "unique_adult_visitors",
+      "day": "2026-10-03"
+    },
+    {
+      "unit": "evening-5-1",
+      "stratum": "evening",
+      "psu": "evening-5",
+      "pi_psu": 0.5,
+      "pi_cond": 0.6666666666666666,
+      "selected": true,
+      "age_group": "young",
+      "target": "unique_adult_visitors",
+      "day": "2026-10-03"
+    },
+    {
+      "unit": "evening-5-2",
+      "stratum": "evening",
+      "psu": "evening-5",
+      "pi_psu": 0.5,
+      "pi_cond": 0.6666666666666666,
+      "selected": false,
+      "age_group": "young",
+      "target": "unique_adult_visitors",
+      "day": "2026-10-03"
+    },
+    {
+      "unit": "evening-5-3",
+      "stratum": "evening",
+      "psu": "evening-5",
+      "pi_psu": 0.5,
+      "pi_cond": 0.6666666666666666,
+      "selected": true,
+      "age_group": "young",
+      "target": "unique_adult_visitors",
+      "day": "2026-10-03"
+    },
+    {
+      "unit": "evening-5-4",
+      "stratum": "evening",
+      "psu": "evening-5",
+      "pi_psu": 0.5,
+      "pi_cond": 0.6666666666666666,
+      "selected": true,
+      "age_group": "young",
+      "target": "unique_adult_visitors",
+      "day": "2026-10-03"
+    },
+    {
+      "unit": "evening-5-5",
+      "stratum": "evening",
+      "psu": "evening-5",
+      "pi_psu": 0.5,
+      "pi_cond": 0.6666666666666666,
+      "selected": false,
+      "age_group": "young",
+      "target": "unique_adult_visitors",
+      "day": "2026-10-03"
+    },
+    {
+      "unit": "evening-5-6",
+      "stratum": "evening",
+      "psu": "evening-5",
+      "pi_psu": 0.5,
+      "pi_cond": 0.6666666666666666,
+      "selected": true,
+      "age_group": "adult",
+      "target": "unique_adult_visitors",
+      "day": "2026-10-03"
+    },
+    {
+      "unit": "evening-5-7",
+      "stratum": "evening",
+      "psu": "evening-5",
+      "pi_psu": 0.5,
+      "pi_cond": 0.6666666666666666,
+      "selected": true,
+      "age_group": "adult",
+      "target": "unique_adult_visitors",
+      "day": "2026-10-03"
+    },
+    {
+      "unit": "evening-5-8",
+      "stratum": "evening",
+      "psu": "evening-5",
+      "pi_psu": 0.5,
+      "pi_cond": 0.6666666666666666,
+      "selected": false,
+      "age_group": "adult",
+      "target": "unique_adult_visitors",
+      "day": "2026-10-03"
+    },
+    {
+      "unit": "evening-5-9",
+      "stratum": "evening",
+      "psu": "evening-5",
+      "pi_psu": 0.5,
+      "pi_cond": 0.6666666666666666,
+      "selected": true,
+      "age_group": "adult",
+      "target": "unique_adult_visitors",
+      "day": "2026-10-03"
+    },
+    {
+      "unit": "evening-5-10",
+      "stratum": "evening",
+      "psu": "evening-5",
+      "pi_psu": 0.5,
+      "pi_cond": 0.6666666666666666,
+      "selected": true,
+      "age_group": "adult",
+      "target": "unique_adult_visitors",
+      "day": "2026-10-03"
+    },
+    {
+      "unit": "evening-5-11",
+      "stratum": "evening",
+      "psu": "evening-5",
+      "pi_psu": 0.5,
+      "pi_cond": 0.6666666666666666,
+      "selected": false,
+      "age_group": "adult",
+      "target": "unique_adult_visitors",
+      "day": "2026-10-03"
+    }
+  ],
+  "contacts": [
+    {
+      "unit": "morning-0-0",
+      "attempt": 1,
+      "status": "answered",
+      "at": "2026-10-03T17:00:00+08:00"
+    },
+    {
+      "unit": "morning-0-1",
+      "attempt": 1,
+      "status": "refused",
+      "at": "2026-10-03T17:00:00+08:00"
+    },
+    {
+      "unit": "morning-0-3",
+      "attempt": 1,
+      "status": "answered",
+      "at": "2026-10-03T17:00:00+08:00"
+    },
+    {
+      "unit": "morning-0-4",
+      "attempt": 1,
+      "status": "answered",
+      "at": "2026-10-03T17:00:00+08:00"
+    },
+    {
+      "unit": "morning-0-6",
+      "attempt": 1,
+      "status": "refused",
+      "at": "2026-10-03T17:00:00+08:00"
+    },
+    {
+      "unit": "morning-0-7",
+      "attempt": 1,
+      "status": "answered",
+      "at": "2026-10-03T17:00:00+08:00"
+    },
+    {
+      "unit": "morning-0-9",
+      "attempt": 1,
+      "status": "answered",
+      "at": "2026-10-03T17:00:00+08:00"
+    },
+    {
+      "unit": "morning-0-10",
+      "attempt": 1,
+      "status": "answered",
+      "at": "2026-10-03T17:00:00+08:00"
+    },
+    {
+      "unit": "morning-1-0",
+      "attempt": 1,
+      "status": "answered",
+      "at": "2026-10-03T17:00:00+08:00"
+    },
+    {
+      "unit": "morning-1-1",
+      "attempt": 1,
+      "status": "refused",
+      "at": "2026-10-03T17:00:00+08:00"
+    },
+    {
+      "unit": "morning-1-3",
+      "attempt": 1,
+      "status": "answered",
+      "at": "2026-10-03T17:00:00+08:00"
+    },
+    {
+      "unit": "morning-1-4",
+      "attempt": 1,
+      "status": "answered",
+      "at": "2026-10-03T17:00:00+08:00"
+    },
+    {
+      "unit": "morning-1-6",
+      "attempt": 1,
+      "status": "refused",
+      "at": "2026-10-03T17:00:00+08:00"
+    },
+    {
+      "unit": "morning-1-7",
+      "attempt": 1,
+      "status": "answered",
+      "at": "2026-10-03T17:00:00+08:00"
+    },
+    {
+      "unit": "morning-1-9",
+      "attempt": 1,
+      "status": "answered",
+      "at": "2026-10-03T17:00:00+08:00"
+    },
+    {
+      "unit": "morning-1-10",
+      "attempt": 1,
+      "status": "answered",
+      "at": "2026-10-03T17:00:00+08:00"
+    },
+    {
+      "unit": "morning-2-0",
+      "attempt": 1,
+      "status": "answered",
+      "at": "2026-10-03T17:00:00+08:00"
+    },
+    {
+      "unit": "morning-2-1",
+      "attempt": 1,
+      "status": "refused",
+      "at": "2026-10-03T17:00:00+08:00"
+    },
+    {
+      "unit": "morning-2-3",
+      "attempt": 1,
+      "status": "answered",
+      "at": "2026-10-03T17:00:00+08:00"
+    },
+    {
+      "unit": "morning-2-4",
+      "attempt": 1,
+      "status": "answered",
+      "at": "2026-10-03T17:00:00+08:00"
+    },
+    {
+      "unit": "morning-2-6",
+      "attempt": 1,
+      "status": "refused",
+      "at": "2026-10-03T17:00:00+08:00"
+    },
+    {
+      "unit": "morning-2-7",
+      "attempt": 1,
+      "status": "answered",
+      "at": "2026-10-03T17:00:00+08:00"
+    },
+    {
+      "unit": "morning-2-9",
+      "attempt": 1,
+      "status": "answered",
+      "at": "2026-10-03T17:00:00+08:00"
+    },
+    {
+      "unit": "morning-2-10",
+      "attempt": 1,
+      "status": "answered",
+      "at": "2026-10-03T17:00:00+08:00"
+    },
+    {
+      "unit": "morning-3-0",
+      "attempt": 1,
+      "status": "answered",
+      "at": "2026-10-03T17:00:00+08:00"
+    },
+    {
+      "unit": "morning-3-1",
+      "attempt": 1,
+      "status": "refused",
+      "at": "2026-10-03T17:00:00+08:00"
+    },
+    {
+      "unit": "morning-3-3",
+      "attempt": 1,
+      "status": "answered",
+      "at": "2026-10-03T17:00:00+08:00"
+    },
+    {
+      "unit": "morning-3-4",
+      "attempt": 1,
+      "status": "answered",
+      "at": "2026-10-03T17:00:00+08:00"
+    },
+    {
+      "unit": "morning-3-6",
+      "attempt": 1,
+      "status": "refused",
+      "at": "2026-10-03T17:00:00+08:00"
+    },
+    {
+      "unit": "morning-3-7",
+      "attempt": 1,
+      "status": "answered",
+      "at": "2026-10-03T17:00:00+08:00"
+    },
+    {
+      "unit": "morning-3-9",
+      "attempt": 1,
+      "status": "answered",
+      "at": "2026-10-03T17:00:00+08:00"
+    },
+    {
+      "unit": "morning-3-10",
+      "attempt": 1,
+      "status": "answered",
+      "at": "2026-10-03T17:00:00+08:00"
+    },
+    {
+      "unit": "morning-4-0",
+      "attempt": 1,
+      "status": "answered",
+      "at": "2026-10-03T17:00:00+08:00"
+    },
+    {
+      "unit": "morning-4-1",
+      "attempt": 1,
+      "status": "refused",
+      "at": "2026-10-03T17:00:00+08:00"
+    },
+    {
+      "unit": "morning-4-3",
+      "attempt": 1,
+      "status": "answered",
+      "at": "2026-10-03T17:00:00+08:00"
+    },
+    {
+      "unit": "morning-4-4",
+      "attempt": 1,
+      "status": "answered",
+      "at": "2026-10-03T17:00:00+08:00"
+    },
+    {
+      "unit": "morning-4-6",
+      "attempt": 1,
+      "status": "refused",
+      "at": "2026-10-03T17:00:00+08:00"
+    },
+    {
+      "unit": "morning-4-7",
+      "attempt": 1,
+      "status": "answered",
+      "at": "2026-10-03T17:00:00+08:00"
+    },
+    {
+      "unit": "morning-4-9",
+      "attempt": 1,
+      "status": "answered",
+      "at": "2026-10-03T17:00:00+08:00"
+    },
+    {
+      "unit": "morning-4-10",
+      "attempt": 1,
+      "status": "answered",
+      "at": "2026-10-03T17:00:00+08:00"
+    },
+    {
+      "unit": "morning-5-0",
+      "attempt": 1,
+      "status": "answered",
+      "at": "2026-10-03T17:00:00+08:00"
+    },
+    {
+      "unit": "morning-5-1",
+      "attempt": 1,
+      "status": "refused",
+      "at": "2026-10-03T17:00:00+08:00"
+    },
+    {
+      "unit": "morning-5-3",
+      "attempt": 1,
+      "status": "answered",
+      "at": "2026-10-03T17:00:00+08:00"
+    },
+    {
+      "unit": "morning-5-4",
+      "attempt": 1,
+      "status": "answered",
+      "at": "2026-10-03T17:00:00+08:00"
+    },
+    {
+      "unit": "morning-5-6",
+      "attempt": 1,
+      "status": "refused",
+      "at": "2026-10-03T17:00:00+08:00"
+    },
+    {
+      "unit": "morning-5-7",
+      "attempt": 1,
+      "status": "answered",
+      "at": "2026-10-03T17:00:00+08:00"
+    },
+    {
+      "unit": "morning-5-9",
+      "attempt": 1,
+      "status": "answered",
+      "at": "2026-10-03T17:00:00+08:00"
+    },
+    {
+      "unit": "morning-5-10",
+      "attempt": 1,
+      "status": "answered",
+      "at": "2026-10-03T17:00:00+08:00"
+    },
+    {
+      "unit": "evening-0-0",
+      "attempt": 1,
+      "status": "refused",
+      "at": "2026-10-03T17:00:00+08:00"
+    },
+    {
+      "unit": "evening-0-1",
+      "attempt": 1,
+      "status": "refused",
+      "at": "2026-10-03T17:00:00+08:00"
+    },
+    {
+      "unit": "evening-0-3",
+      "attempt": 1,
+      "status": "refused",
+      "at": "2026-10-03T17:00:00+08:00"
+    },
+    {
+      "unit": "evening-0-4",
+      "attempt": 1,
+      "status": "refused",
+      "at": "2026-10-03T17:00:00+08:00"
+    },
+    {
+      "unit": "evening-0-6",
+      "attempt": 1,
+      "status": "refused",
+      "at": "2026-10-03T17:00:00+08:00"
+    },
+    {
+      "unit": "evening-0-7",
+      "attempt": 1,
+      "status": "answered",
+      "at": "2026-10-03T17:00:00+08:00"
+    },
+    {
+      "unit": "evening-0-9",
+      "attempt": 1,
+      "status": "answered",
+      "at": "2026-10-03T17:00:00+08:00"
+    },
+    {
+      "unit": "evening-0-10",
+      "attempt": 1,
+      "status": "answered",
+      "at": "2026-10-03T17:00:00+08:00"
+    },
+    {
+      "unit": "evening-1-0",
+      "attempt": 1,
+      "status": "refused",
+      "at": "2026-10-03T17:00:00+08:00"
+    },
+    {
+      "unit": "evening-1-1",
+      "attempt": 1,
+      "status": "refused",
+      "at": "2026-10-03T17:00:00+08:00"
+    },
+    {
+      "unit": "evening-1-3",
+      "attempt": 1,
+      "status": "refused",
+      "at": "2026-10-03T17:00:00+08:00"
+    },
+    {
+      "unit": "evening-1-4",
+      "attempt": 1,
+      "status": "refused",
+      "at": "2026-10-03T17:00:00+08:00"
+    },
+    {
+      "unit": "evening-1-6",
+      "attempt": 1,
+      "status": "refused",
+      "at": "2026-10-03T17:00:00+08:00"
+    },
+    {
+      "unit": "evening-1-7",
+      "attempt": 1,
+      "status": "answered",
+      "at": "2026-10-03T17:00:00+08:00"
+    },
+    {
+      "unit": "evening-1-9",
+      "attempt": 1,
+      "status": "answered",
+      "at": "2026-10-03T17:00:00+08:00"
+    },
+    {
+      "unit": "evening-1-10",
+      "attempt": 1,
+      "status": "answered",
+      "at": "2026-10-03T17:00:00+08:00"
+    },
+    {
+      "unit": "evening-2-0",
+      "attempt": 1,
+      "status": "refused",
+      "at": "2026-10-03T17:00:00+08:00"
+    },
+    {
+      "unit": "evening-2-1",
+      "attempt": 1,
+      "status": "refused",
+      "at": "2026-10-03T17:00:00+08:00"
+    },
+    {
+      "unit": "evening-2-3",
+      "attempt": 1,
+      "status": "refused",
+      "at": "2026-10-03T17:00:00+08:00"
+    },
+    {
+      "unit": "evening-2-4",
+      "attempt": 1,
+      "status": "refused",
+      "at": "2026-10-03T17:00:00+08:00"
+    },
+    {
+      "unit": "evening-2-6",
+      "attempt": 1,
+      "status": "refused",
+      "at": "2026-10-03T17:00:00+08:00"
+    },
+    {
+      "unit": "evening-2-7",
+      "attempt": 1,
+      "status": "answered",
+      "at": "2026-10-03T17:00:00+08:00"
+    },
+    {
+      "unit": "evening-2-9",
+      "attempt": 1,
+      "status": "answered",
+      "at": "2026-10-03T17:00:00+08:00"
+    },
+    {
+      "unit": "evening-2-10",
+      "attempt": 1,
+      "status": "answered",
+      "at": "2026-10-03T17:00:00+08:00"
+    },
+    {
+      "unit": "evening-3-0",
+      "attempt": 1,
+      "status": "refused",
+      "at": "2026-10-03T17:00:00+08:00"
+    },
+    {
+      "unit": "evening-3-1",
+      "attempt": 1,
+      "status": "refused",
+      "at": "2026-10-03T17:00:00+08:00"
+    },
+    {
+      "unit": "evening-3-3",
+      "attempt": 1,
+      "status": "refused",
+      "at": "2026-10-03T17:00:00+08:00"
+    },
+    {
+      "unit": "evening-3-4",
+      "attempt": 1,
+      "status": "refused",
+      "at": "2026-10-03T17:00:00+08:00"
+    },
+    {
+      "unit": "evening-3-6",
+      "attempt": 1,
+      "status": "refused",
+      "at": "2026-10-03T17:00:00+08:00"
+    },
+    {
+      "unit": "evening-3-7",
+      "attempt": 1,
+      "status": "answered",
+      "at": "2026-10-03T17:00:00+08:00"
+    },
+    {
+      "unit": "evening-3-9",
+      "attempt": 1,
+      "status": "answered",
+      "at": "2026-10-03T17:00:00+08:00"
+    },
+    {
+      "unit": "evening-3-10",
+      "attempt": 1,
+      "status": "answered",
+      "at": "2026-10-03T17:00:00+08:00"
+    },
+    {
+      "unit": "evening-4-0",
+      "attempt": 1,
+      "status": "refused",
+      "at": "2026-10-03T17:00:00+08:00"
+    },
+    {
+      "unit": "evening-4-1",
+      "attempt": 1,
+      "status": "refused",
+      "at": "2026-10-03T17:00:00+08:00"
+    },
+    {
+      "unit": "evening-4-3",
+      "attempt": 1,
+      "status": "refused",
+      "at": "2026-10-03T17:00:00+08:00"
+    },
+    {
+      "unit": "evening-4-4",
+      "attempt": 1,
+      "status": "refused",
+      "at": "2026-10-03T17:00:00+08:00"
+    },
+    {
+      "unit": "evening-4-6",
+      "attempt": 1,
+      "status": "refused",
+      "at": "2026-10-03T17:00:00+08:00"
+    },
+    {
+      "unit": "evening-4-7",
+      "attempt": 1,
+      "status": "answered",
+      "at": "2026-10-03T17:00:00+08:00"
+    },
+    {
+      "unit": "evening-4-9",
+      "attempt": 1,
+      "status": "answered",
+      "at": "2026-10-03T17:00:00+08:00"
+    },
+    {
+      "unit": "evening-4-10",
+      "attempt": 1,
+      "status": "answered",
+      "at": "2026-10-03T17:00:00+08:00"
+    },
+    {
+      "unit": "evening-5-0",
+      "attempt": 1,
+      "status": "refused",
+      "at": "2026-10-03T17:00:00+08:00"
+    },
+    {
+      "unit": "evening-5-1",
+      "attempt": 1,
+      "status": "refused",
+      "at": "2026-10-03T17:00:00+08:00"
+    },
+    {
+      "unit": "evening-5-3",
+      "attempt": 1,
+      "status": "refused",
+      "at": "2026-10-03T17:00:00+08:00"
+    },
+    {
+      "unit": "evening-5-4",
+      "attempt": 1,
+      "status": "refused",
+      "at": "2026-10-03T17:00:00+08:00"
+    },
+    {
+      "unit": "evening-5-6",
+      "attempt": 1,
+      "status": "refused",
+      "at": "2026-10-03T17:00:00+08:00"
+    },
+    {
+      "unit": "evening-5-7",
+      "attempt": 1,
+      "status": "answered",
+      "at": "2026-10-03T17:00:00+08:00"
+    },
+    {
+      "unit": "evening-5-9",
+      "attempt": 1,
+      "status": "answered",
+      "at": "2026-10-03T17:00:00+08:00"
+    },
+    {
+      "unit": "evening-5-10",
+      "attempt": 1,
+      "status": "answered",
+      "at": "2026-10-03T17:00:00+08:00"
+    }
+  ],
+  "responses": [
+    {
+      "unit": "morning-0-0",
+      "revision": 1,
+      "revisit": "yes",
+      "spend_band": "medium",
+      "known_at": "2026-10-03T18:00:00+08:00"
+    },
+    {
+      "unit": "morning-0-3",
+      "revision": 1,
+      "revisit": null,
+      "spend_band": "medium",
+      "known_at": "2026-10-03T18:00:00+08:00"
+    },
+    {
+      "unit": "morning-0-4",
+      "revision": 1,
+      "revisit": "yes",
+      "spend_band": "low",
+      "known_at": "2026-10-03T18:00:00+08:00"
+    },
+    {
+      "unit": "morning-0-7",
+      "revision": 1,
+      "revisit": "yes",
+      "spend_band": "medium",
+      "known_at": "2026-10-03T18:00:00+08:00"
+    },
+    {
+      "unit": "morning-0-9",
+      "revision": 1,
+      "revisit": "no",
+      "spend_band": "high",
+      "known_at": "2026-10-03T18:00:00+08:00"
+    },
+    {
+      "unit": "morning-0-10",
+      "revision": 1,
+      "revisit": "yes",
+      "spend_band": "high",
+      "known_at": "2026-10-03T18:00:00+08:00"
+    },
+    {
+      "unit": "morning-1-0",
+      "revision": 1,
+      "revisit": "no",
+      "spend_band": "low",
+      "known_at": "2026-10-03T18:00:00+08:00"
+    },
+    {
+      "unit": "morning-1-3",
+      "revision": 1,
+      "revisit": null,
+      "spend_band": "high",
+      "known_at": "2026-10-03T18:00:00+08:00"
+    },
+    {
+      "unit": "morning-1-4",
+      "revision": 1,
+      "revisit": "no",
+      "spend_band": "medium",
+      "known_at": "2026-10-03T18:00:00+08:00"
+    },
+    {
+      "unit": "morning-1-7",
+      "revision": 1,
+      "revisit": "yes",
+      "spend_band": "high",
+      "known_at": "2026-10-03T18:00:00+08:00"
+    },
+    {
+      "unit": "morning-1-9",
+      "revision": 1,
+      "revisit": "yes",
+      "spend_band": "high",
+      "known_at": "2026-10-03T18:00:00+08:00"
+    },
+    {
+      "unit": "morning-1-10",
+      "revision": 1,
+      "revisit": "yes",
+      "spend_band": "medium",
+      "known_at": "2026-10-03T18:00:00+08:00"
+    },
+    {
+      "unit": "morning-2-0",
+      "revision": 1,
+      "revisit": "yes",
+      "spend_band": "high",
+      "known_at": "2026-10-03T18:00:00+08:00"
+    },
+    {
+      "unit": "morning-2-3",
+      "revision": 1,
+      "revisit": null,
+      "spend_band": "low",
+      "known_at": "2026-10-03T18:00:00+08:00"
+    },
+    {
+      "unit": "morning-2-4",
+      "revision": 1,
+      "revisit": "no",
+      "spend_band": "high",
+      "known_at": "2026-10-03T18:00:00+08:00"
+    },
+    {
+      "unit": "morning-2-7",
+      "revision": 1,
+      "revisit": "no",
+      "spend_band": "low",
+      "known_at": "2026-10-03T18:00:00+08:00"
+    },
+    {
+      "unit": "morning-2-9",
+      "revision": 1,
+      "revisit": "yes",
+      "spend_band": "low",
+      "known_at": "2026-10-03T18:00:00+08:00"
+    },
+    {
+      "unit": "morning-2-10",
+      "revision": 1,
+      "revisit": "no",
+      "spend_band": "high",
+      "known_at": "2026-10-03T18:00:00+08:00"
+    },
+    {
+      "unit": "morning-3-0",
+      "revision": 1,
+      "revisit": "yes",
+      "spend_band": "high",
+      "known_at": "2026-10-03T18:00:00+08:00"
+    },
+    {
+      "unit": "morning-3-3",
+      "revision": 1,
+      "revisit": null,
+      "spend_band": "medium",
+      "known_at": "2026-10-03T18:00:00+08:00"
+    },
+    {
+      "unit": "morning-3-4",
+      "revision": 1,
+      "revisit": "yes",
+      "spend_band": "high",
+      "known_at": "2026-10-03T18:00:00+08:00"
+    },
+    {
+      "unit": "morning-3-7",
+      "revision": 1,
+      "revisit": "yes",
+      "spend_band": "medium",
+      "known_at": "2026-10-03T18:00:00+08:00"
+    },
+    {
+      "unit": "morning-3-9",
+      "revision": 1,
+      "revisit": "no",
+      "spend_band": "high",
+      "known_at": "2026-10-03T18:00:00+08:00"
+    },
+    {
+      "unit": "morning-3-10",
+      "revision": 1,
+      "revisit": "no",
+      "spend_band": "high",
+      "known_at": "2026-10-03T18:00:00+08:00"
+    },
+    {
+      "unit": "morning-4-0",
+      "revision": 1,
+      "revisit": "yes",
+      "spend_band": "medium",
+      "known_at": "2026-10-03T18:00:00+08:00"
+    },
+    {
+      "unit": "morning-4-3",
+      "revision": 1,
+      "revisit": null,
+      "spend_band": "medium",
+      "known_at": "2026-10-03T18:00:00+08:00"
+    },
+    {
+      "unit": "morning-4-4",
+      "revision": 1,
+      "revisit": "no",
+      "spend_band": "medium",
+      "known_at": "2026-10-03T18:00:00+08:00"
+    },
+    {
+      "unit": "morning-4-7",
+      "revision": 1,
+      "revisit": "yes",
+      "spend_band": "low",
+      "known_at": "2026-10-03T18:00:00+08:00"
+    },
+    {
+      "unit": "morning-4-9",
+      "revision": 1,
+      "revisit": "yes",
+      "spend_band": "medium",
+      "known_at": "2026-10-03T18:00:00+08:00"
+    },
+    {
+      "unit": "morning-4-10",
+      "revision": 1,
+      "revisit": "yes",
+      "spend_band": "high",
+      "known_at": "2026-10-03T18:00:00+08:00"
+    },
+    {
+      "unit": "morning-5-0",
+      "revision": 1,
+      "revisit": "yes",
+      "spend_band": "high",
+      "known_at": "2026-10-03T18:00:00+08:00"
+    },
+    {
+      "unit": "morning-5-3",
+      "revision": 1,
+      "revisit": null,
+      "spend_band": "high",
+      "known_at": "2026-10-03T18:00:00+08:00"
+    },
+    {
+      "unit": "morning-5-4",
+      "revision": 1,
+      "revisit": "no",
+      "spend_band": "low",
+      "known_at": "2026-10-03T18:00:00+08:00"
+    },
+    {
+      "unit": "morning-5-7",
+      "revision": 1,
+      "revisit": "yes",
+      "spend_band": "low",
+      "known_at": "2026-10-03T18:00:00+08:00"
+    },
+    {
+      "unit": "morning-5-9",
+      "revision": 1,
+      "revisit": "no",
+      "spend_band": "high",
+      "known_at": "2026-10-03T18:00:00+08:00"
+    },
+    {
+      "unit": "morning-5-10",
+      "revision": 1,
+      "revisit": "yes",
+      "spend_band": "medium",
+      "known_at": "2026-10-03T18:00:00+08:00"
+    },
+    {
+      "unit": "evening-0-7",
+      "revision": 1,
+      "revisit": "yes",
+      "spend_band": "high",
+      "known_at": "2026-10-03T18:00:00+08:00"
+    },
+    {
+      "unit": "evening-0-9",
+      "revision": 1,
+      "revisit": "yes",
+      "spend_band": "high",
+      "known_at": "2026-10-03T18:00:00+08:00"
+    },
+    {
+      "unit": "evening-0-10",
+      "revision": 1,
+      "revisit": "no",
+      "spend_band": "high",
+      "known_at": "2026-10-03T18:00:00+08:00"
+    },
+    {
+      "unit": "evening-1-7",
+      "revision": 1,
+      "revisit": "no",
+      "spend_band": "high",
+      "known_at": "2026-10-03T18:00:00+08:00"
+    },
+    {
+      "unit": "evening-1-9",
+      "revision": 1,
+      "revisit": "yes",
+      "spend_band": "high",
+      "known_at": "2026-10-03T18:00:00+08:00"
+    },
+    {
+      "unit": "evening-1-10",
+      "revision": 1,
+      "revisit": "no",
+      "spend_band": "medium",
+      "known_at": "2026-10-03T18:00:00+08:00"
+    },
+    {
+      "unit": "evening-2-7",
+      "revision": 1,
+      "revisit": "yes",
+      "spend_band": "medium",
+      "known_at": "2026-10-03T18:00:00+08:00"
+    },
+    {
+      "unit": "evening-2-9",
+      "revision": 1,
+      "revisit": "yes",
+      "spend_band": "low",
+      "known_at": "2026-10-03T18:00:00+08:00"
+    },
+    {
+      "unit": "evening-2-10",
+      "revision": 1,
+      "revisit": "yes",
+      "spend_band": "low",
+      "known_at": "2026-10-03T18:00:00+08:00"
+    },
+    {
+      "unit": "evening-3-7",
+      "revision": 1,
+      "revisit": "yes",
+      "spend_band": "low",
+      "known_at": "2026-10-03T18:00:00+08:00"
+    },
+    {
+      "unit": "evening-3-9",
+      "revision": 1,
+      "revisit": "yes",
+      "spend_band": "low",
+      "known_at": "2026-10-03T18:00:00+08:00"
+    },
+    {
+      "unit": "evening-3-10",
+      "revision": 1,
+      "revisit": "yes",
+      "spend_band": "low",
+      "known_at": "2026-10-03T18:00:00+08:00"
+    },
+    {
+      "unit": "evening-4-7",
+      "revision": 1,
+      "revisit": "yes",
+      "spend_band": "low",
+      "known_at": "2026-10-03T18:00:00+08:00"
+    },
+    {
+      "unit": "evening-4-9",
+      "revision": 1,
+      "revisit": "no",
+      "spend_band": "high",
+      "known_at": "2026-10-03T18:00:00+08:00"
+    },
+    {
+      "unit": "evening-4-10",
+      "revision": 1,
+      "revisit": "no",
+      "spend_band": "low",
+      "known_at": "2026-10-03T18:00:00+08:00"
+    },
+    {
+      "unit": "evening-5-7",
+      "revision": 1,
+      "revisit": "yes",
+      "spend_band": "low",
+      "known_at": "2026-10-03T18:00:00+08:00"
+    },
+    {
+      "unit": "evening-5-9",
+      "revision": 1,
+      "revisit": "no",
+      "spend_band": "low",
+      "known_at": "2026-10-03T18:00:00+08:00"
+    },
+    {
+      "unit": "evening-5-10",
+      "revision": 1,
+      "revisit": "yes",
+      "spend_band": "low",
+      "known_at": "2026-10-03T18:00:00+08:00"
+    }
+  ],
+  "volunteer": [
+    {
+      "unit": "V0",
+      "age_group": "young",
+      "revisit": "no",
+      "mode": "self_selected_qr"
+    },
+    {
+      "unit": "V1",
+      "age_group": "young",
+      "revisit": "yes",
+      "mode": "self_selected_qr"
+    },
+    {
+      "unit": "V2",
+      "age_group": "young",
+      "revisit": "yes",
+      "mode": "self_selected_qr"
+    },
+    {
+      "unit": "V3",
+      "age_group": "young",
+      "revisit": "yes",
+      "mode": "self_selected_qr"
+    },
+    {
+      "unit": "V4",
+      "age_group": "young",
+      "revisit": "yes",
+      "mode": "self_selected_qr"
+    },
+    {
+      "unit": "V5",
+      "age_group": "young",
+      "revisit": "yes",
+      "mode": "self_selected_qr"
+    },
+    {
+      "unit": "V6",
+      "age_group": "young",
+      "revisit": "yes",
+      "mode": "self_selected_qr"
+    },
+    {
+      "unit": "V7",
+      "age_group": "young",
+      "revisit": "no",
+      "mode": "self_selected_qr"
+    },
+    {
+      "unit": "V8",
+      "age_group": "young",
+      "revisit": "yes",
+      "mode": "self_selected_qr"
+    },
+    {
+      "unit": "V9",
+      "age_group": "young",
+      "revisit": "yes",
+      "mode": "self_selected_qr"
+    },
+    {
+      "unit": "V10",
+      "age_group": "young",
+      "revisit": "yes",
+      "mode": "self_selected_qr"
+    },
+    {
+      "unit": "V11",
+      "age_group": "young",
+      "revisit": "yes",
+      "mode": "self_selected_qr"
+    },
+    {
+      "unit": "V12",
+      "age_group": "young",
+      "revisit": "yes",
+      "mode": "self_selected_qr"
+    },
+    {
+      "unit": "V13",
+      "age_group": "young",
+      "revisit": "yes",
+      "mode": "self_selected_qr"
+    },
+    {
+      "unit": "V14",
+      "age_group": "young",
+      "revisit": "no",
+      "mode": "self_selected_qr"
+    },
+    {
+      "unit": "V15",
+      "age_group": "young",
+      "revisit": "yes",
+      "mode": "self_selected_qr"
+    },
+    {
+      "unit": "V16",
+      "age_group": "young",
+      "revisit": "yes",
+      "mode": "self_selected_qr"
+    },
+    {
+      "unit": "V17",
+      "age_group": "young",
+      "revisit": "yes",
+      "mode": "self_selected_qr"
+    },
+    {
+      "unit": "V18",
+      "age_group": "young",
+      "revisit": "yes",
+      "mode": "self_selected_qr"
+    },
+    {
+      "unit": "V19",
+      "age_group": "young",
+      "revisit": "yes",
+      "mode": "self_selected_qr"
+    },
+    {
+      "unit": "V20",
+      "age_group": "young",
+      "revisit": "yes",
+      "mode": "self_selected_qr"
+    },
+    {
+      "unit": "V21",
+      "age_group": "young",
+      "revisit": "no",
+      "mode": "self_selected_qr"
+    },
+    {
+      "unit": "V22",
+      "age_group": "young",
+      "revisit": "yes",
+      "mode": "self_selected_qr"
+    },
+    {
+      "unit": "V23",
+      "age_group": "young",
+      "revisit": "yes",
+      "mode": "self_selected_qr"
+    },
+    {
+      "unit": "V24",
+      "age_group": "young",
+      "revisit": "yes",
+      "mode": "self_selected_qr"
+    },
+    {
+      "unit": "V25",
+      "age_group": "young",
+      "revisit": "yes",
+      "mode": "self_selected_qr"
+    },
+    {
+      "unit": "V26",
+      "age_group": "young",
+      "revisit": "yes",
+      "mode": "self_selected_qr"
+    },
+    {
+      "unit": "V27",
+      "age_group": "young",
+      "revisit": "yes",
+      "mode": "self_selected_qr"
+    },
+    {
+      "unit": "V28",
+      "age_group": "young",
+      "revisit": "no",
+      "mode": "self_selected_qr"
+    },
+    {
+      "unit": "V29",
+      "age_group": "young",
+      "revisit": "yes",
+      "mode": "self_selected_qr"
+    },
+    {
+      "unit": "V30",
+      "age_group": "young",
+      "revisit": "yes",
+      "mode": "self_selected_qr"
+    },
+    {
+      "unit": "V31",
+      "age_group": "young",
+      "revisit": "yes",
+      "mode": "self_selected_qr"
+    },
+    {
+      "unit": "V32",
+      "age_group": "young",
+      "revisit": "yes",
+      "mode": "self_selected_qr"
+    },
+    {
+      "unit": "V33",
+      "age_group": "young",
+      "revisit": "yes",
+      "mode": "self_selected_qr"
+    },
+    {
+      "unit": "V34",
+      "age_group": "young",
+      "revisit": "yes",
+      "mode": "self_selected_qr"
+    },
+    {
+      "unit": "V35",
+      "age_group": "young",
+      "revisit": "no",
+      "mode": "self_selected_qr"
+    },
+    {
+      "unit": "V36",
+      "age_group": "young",
+      "revisit": "yes",
+      "mode": "self_selected_qr"
+    },
+    {
+      "unit": "V37",
+      "age_group": "young",
+      "revisit": "yes",
+      "mode": "self_selected_qr"
+    },
+    {
+      "unit": "V38",
+      "age_group": "young",
+      "revisit": "yes",
+      "mode": "self_selected_qr"
+    },
+    {
+      "unit": "V39",
+      "age_group": "young",
+      "revisit": "yes",
+      "mode": "self_selected_qr"
+    },
+    {
+      "unit": "V40",
+      "age_group": "young",
+      "revisit": "yes",
+      "mode": "self_selected_qr"
+    },
+    {
+      "unit": "V41",
+      "age_group": "young",
+      "revisit": "yes",
+      "mode": "self_selected_qr"
+    },
+    {
+      "unit": "V42",
+      "age_group": "young",
+      "revisit": "no",
+      "mode": "self_selected_qr"
+    },
+    {
+      "unit": "V43",
+      "age_group": "young",
+      "revisit": "yes",
+      "mode": "self_selected_qr"
+    },
+    {
+      "unit": "V44",
+      "age_group": "young",
+      "revisit": "yes",
+      "mode": "self_selected_qr"
+    },
+    {
+      "unit": "V45",
+      "age_group": "young",
+      "revisit": "yes",
+      "mode": "self_selected_qr"
+    },
+    {
+      "unit": "V46",
+      "age_group": "young",
+      "revisit": "yes",
+      "mode": "self_selected_qr"
+    },
+    {
+      "unit": "V47",
+      "age_group": "young",
+      "revisit": "yes",
+      "mode": "self_selected_qr"
+    },
+    {
+      "unit": "V48",
+      "age_group": "young",
+      "revisit": "yes",
+      "mode": "self_selected_qr"
+    },
+    {
+      "unit": "V49",
+      "age_group": "young",
+      "revisit": "no",
+      "mode": "self_selected_qr"
+    },
+    {
+      "unit": "V50",
+      "age_group": "young",
+      "revisit": "yes",
+      "mode": "self_selected_qr"
+    },
+    {
+      "unit": "V51",
+      "age_group": "young",
+      "revisit": "yes",
+      "mode": "self_selected_qr"
+    },
+    {
+      "unit": "V52",
+      "age_group": "young",
+      "revisit": "yes",
+      "mode": "self_selected_qr"
+    },
+    {
+      "unit": "V53",
+      "age_group": "young",
+      "revisit": "yes",
+      "mode": "self_selected_qr"
+    },
+    {
+      "unit": "V54",
+      "age_group": "young",
+      "revisit": "yes",
+      "mode": "self_selected_qr"
+    },
+    {
+      "unit": "V55",
+      "age_group": "young",
+      "revisit": "yes",
+      "mode": "self_selected_qr"
+    },
+    {
+      "unit": "V56",
+      "age_group": "young",
+      "revisit": "no",
+      "mode": "self_selected_qr"
+    },
+    {
+      "unit": "V57",
+      "age_group": "young",
+      "revisit": "yes",
+      "mode": "self_selected_qr"
+    },
+    {
+      "unit": "V58",
+      "age_group": "young",
+      "revisit": "yes",
+      "mode": "self_selected_qr"
+    },
+    {
+      "unit": "V59",
+      "age_group": "young",
+      "revisit": "yes",
+      "mode": "self_selected_qr"
+    },
+    {
+      "unit": "V60",
+      "age_group": "young",
+      "revisit": "yes",
+      "mode": "self_selected_qr"
+    },
+    {
+      "unit": "V61",
+      "age_group": "young",
+      "revisit": "yes",
+      "mode": "self_selected_qr"
+    },
+    {
+      "unit": "V62",
+      "age_group": "young",
+      "revisit": "yes",
+      "mode": "self_selected_qr"
+    },
+    {
+      "unit": "V63",
+      "age_group": "young",
+      "revisit": "no",
+      "mode": "self_selected_qr"
+    },
+    {
+      "unit": "V64",
+      "age_group": "young",
+      "revisit": "yes",
+      "mode": "self_selected_qr"
+    },
+    {
+      "unit": "V65",
+      "age_group": "young",
+      "revisit": "yes",
+      "mode": "self_selected_qr"
+    },
+    {
+      "unit": "V66",
+      "age_group": "young",
+      "revisit": "yes",
+      "mode": "self_selected_qr"
+    },
+    {
+      "unit": "V67",
+      "age_group": "young",
+      "revisit": "yes",
+      "mode": "self_selected_qr"
+    },
+    {
+      "unit": "V68",
+      "age_group": "young",
+      "revisit": "yes",
+      "mode": "self_selected_qr"
+    },
+    {
+      "unit": "V69",
+      "age_group": "young",
+      "revisit": "yes",
+      "mode": "self_selected_qr"
+    },
+    {
+      "unit": "V70",
+      "age_group": "adult",
+      "revisit": "no",
+      "mode": "self_selected_qr"
+    },
+    {
+      "unit": "V71",
+      "age_group": "adult",
+      "revisit": "yes",
+      "mode": "self_selected_qr"
+    },
+    {
+      "unit": "V72",
+      "age_group": "adult",
+      "revisit": "yes",
+      "mode": "self_selected_qr"
+    },
+    {
+      "unit": "V73",
+      "age_group": "adult",
+      "revisit": "yes",
+      "mode": "self_selected_qr"
+    },
+    {
+      "unit": "V74",
+      "age_group": "adult",
+      "revisit": "yes",
+      "mode": "self_selected_qr"
+    },
+    {
+      "unit": "V75",
+      "age_group": "adult",
+      "revisit": "yes",
+      "mode": "self_selected_qr"
+    },
+    {
+      "unit": "V76",
+      "age_group": "adult",
+      "revisit": "yes",
+      "mode": "self_selected_qr"
+    },
+    {
+      "unit": "V77",
+      "age_group": "adult",
+      "revisit": "no",
+      "mode": "self_selected_qr"
+    },
+    {
+      "unit": "V78",
+      "age_group": "adult",
+      "revisit": "yes",
+      "mode": "self_selected_qr"
+    },
+    {
+      "unit": "V79",
+      "age_group": "adult",
+      "revisit": "yes",
+      "mode": "self_selected_qr"
+    },
+    {
+      "unit": "V80",
+      "age_group": "adult",
+      "revisit": "yes",
+      "mode": "self_selected_qr"
+    },
+    {
+      "unit": "V81",
+      "age_group": "adult",
+      "revisit": "yes",
+      "mode": "self_selected_qr"
+    },
+    {
+      "unit": "V82",
+      "age_group": "adult",
+      "revisit": "yes",
+      "mode": "self_selected_qr"
+    },
+    {
+      "unit": "V83",
+      "age_group": "adult",
+      "revisit": "yes",
+      "mode": "self_selected_qr"
+    },
+    {
+      "unit": "V84",
+      "age_group": "adult",
+      "revisit": "no",
+      "mode": "self_selected_qr"
+    },
+    {
+      "unit": "V85",
+      "age_group": "adult",
+      "revisit": "yes",
+      "mode": "self_selected_qr"
+    },
+    {
+      "unit": "V86",
+      "age_group": "adult",
+      "revisit": "yes",
+      "mode": "self_selected_qr"
+    },
+    {
+      "unit": "V87",
+      "age_group": "adult",
+      "revisit": "yes",
+      "mode": "self_selected_qr"
+    },
+    {
+      "unit": "V88",
+      "age_group": "adult",
+      "revisit": "yes",
+      "mode": "self_selected_qr"
+    },
+    {
+      "unit": "V89",
+      "age_group": "adult",
+      "revisit": "yes",
+      "mode": "self_selected_qr"
+    }
+  ],
+  "margins": [
+    {
+      "constraint": "age-persons",
+      "category": "young",
+      "value": 900,
+      "universe": "unique_adult_visitors",
+      "count_unit": "persons",
+      "date_from": "2026-10-01",
+      "date_to": "2026-10-04"
+    },
+    {
+      "constraint": "age-persons",
+      "category": "adult",
+      "value": 1100,
+      "universe": "unique_adult_visitors",
+      "count_unit": "persons",
+      "date_from": "2026-10-01",
+      "date_to": "2026-10-04"
+    },
+    {
+      "constraint": "age-passages",
+      "category": "young",
+      "value": 1500,
+      "universe": "gate_passages",
+      "count_unit": "visits",
+      "date_from": "2026-10-01",
+      "date_to": "2026-10-04"
+    },
+    {
+      "constraint": "age-passages",
+      "category": "adult",
+      "value": 1700,
+      "universe": "gate_passages",
+      "count_unit": "visits",
+      "date_from": "2026-10-01",
+      "date_to": "2026-10-04"
+    }
+  ]
+}
