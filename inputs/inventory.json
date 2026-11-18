@@ -30,14 +30,14 @@
     },
     {
       "path": "sampling_frame.parquet",
-      "bytes": 128831,
-      "sha256": "9650c9cb5c356515981538c08143bbca1db7090e5ca489430c1d022bbf78c0ac",
+      "bytes": 129338,
+      "sha256": "7bf464267afe25689630938697fafe1c9dc690db89cfa4e34bea4bf8f8bcfd5c",
       "rows": 144
     },
     {
       "path": "seed.json",
       "bytes": 75363,
-      "sha256": "6cf310e75e1c51cd09d36eac74701f6c21db8ef959098accb938912ecb1d4986"
+      "sha256": "66ef2ea08582b0a8b4e02527c160e3b79c3ea0156b7b81abb7fe328229af9bfe"
     },
     {
       "path": "volunteer.parquet",
